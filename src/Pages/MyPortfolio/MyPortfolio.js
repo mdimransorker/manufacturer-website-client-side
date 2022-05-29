@@ -17,8 +17,8 @@ const MyPortfolio = () => {
                     </div>
                 </div>
                 <div class="card-body items-center text-center">
-                    <h2 class="lg:text-6xl font-bold sm:text-xl">Md Thowhidul Islam Molla</h2>
-                    <p className='lg:text-2xl sm:text-lg'>Email: thowhidpro@gmail.com</p>
+                    <h2 class="lg:text-6xl font-bold sm:text-xl">Md Imran Sorker</h2>
+                    <p className='lg:text-2xl sm:text-lg'>Email: apgimran@gmail.com</p>
                     <div>
                         <h1 className='text-xl my-7 font-bold'>Educational Qualification</h1>
                         <div className='grid lg:grid-cols-2 gap-6'>
@@ -26,14 +26,14 @@ const MyPortfolio = () => {
                                 <div class="card-body">
                                     <h2 class="text-center text-xl font-bold">MSc</h2>
                                     <p>Major: Software Engineeing</p>
-                                    <p>University: Daffodil University</p>
+                                    <p>University: Brac University</p>
 
                                 </div>
                             </div>
                             <div class="card w-96 bg-base-100 shadow-xl">
                                 <div class="card-body">
                                     <h2 class="text-center text-xl font-bold">BSc</h2>
-                                    <p>Major: Electrical Engineering</p>
+                                    <p>Major: Computer Science </p>
                                     <p>University: APG Shimla University</p>
                                 </div>
                             </div>
@@ -75,17 +75,17 @@ const MyPortfolio = () => {
                         <div className='grid lg:grid-cols-3 gap-5'>
                             <div class="card max-w-xs bg-base-100 shadow-xl">
                                 <div class="card-body">
-                                    <a class="text-center text-xl font-bold" href="https://carpentryz.web.app/">Carpentryz</a>
+                                    <a class="text-center text-xl font-bold" href="https://carpentryz.web.app/">Carpentry</a>
                                 </div>
                             </div>
                             <div class="card max-w-xs bg-base-100 shadow-xl">
                                 <div class="card-body">
-                                    <a class="text-center text-xl font-bold" href="https://spicy-kart.web.app/">SpiceKart</a>
+                                    <a class="text-center text-xl font-bold" href="https://gorom-mosala.web.app/">Gorom-mosala</a>
                                 </div>
                             </div>
                             <div class="card max-w-xs bg-base-100 shadow-xl">
                                 <div class="card-body">
-                                    <a class="text-center text-xl font-bold" href="https://reynolds-trainer.web.app/">Reynolds</a>
+                                    <a class="text-center text-xl font-bold" href="https://gym-trainer-2bba5.firebaseapp.com/">Gym-trainer</a>
                                 </div>
                             </div>
                         </div>
