@@ -1,6 +1,6 @@
-# 
+# Carpentry
 
-## To visit live website [click here](/)
+## To visit live website [click here](https://carpentry-92db5.web.app/)
 
 ## Features and functionality
 - Inside dashboard have options like add products, manage products for admin.
