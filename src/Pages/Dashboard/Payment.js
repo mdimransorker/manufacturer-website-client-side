@@ -20,7 +20,7 @@ const Payment = () => {
     isLoading,
     refetch,
   } = useQuery(["orderPayment", id], () =>
-    fetch(`https://aqueous-lake-49311.herokuapp.com/order/${id}`).then((res) =>
+    fetch(`https://glacial-gorge-41248.herokuapp.com/order/${id}`).then((res) =>
       res.json()
     )
   );
