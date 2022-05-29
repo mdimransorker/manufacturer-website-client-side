@@ -75,7 +75,7 @@ const MyPortfolio = () => {
                         <div className='grid lg:grid-cols-3 gap-5'>
                             <div class="card max-w-xs bg-base-100 shadow-xl">
                                 <div class="card-body">
-                                    <a class="text-center text-xl font-bold" href="https://carpentryz.web.app/">Carpentry</a>
+                                    <a class="text-center text-xl font-bold" href="https://carpentry-92db5.web.app/">Carpentry</a>
                                 </div>
                             </div>
                             <div class="card max-w-xs bg-base-100 shadow-xl">
