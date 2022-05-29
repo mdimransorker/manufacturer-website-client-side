@@ -100,7 +100,7 @@ const Login = () => {
                         {errorElement}
                         <input className='btn w-full max-w-xs btn-primary text-black  hover:btn-secondary hover:text-white' type="submit" value='Login' />
                     </form>
-                    <p><small>New to Carpentryz? <Link className='text-primary hover:text-secondary' to='/register'>Create new account</Link></small></p>
+                    <p><small>New to Carpentry? <Link className='text-primary hover:text-secondary' to='/register'>Create new account</Link></small></p>
                     <div className="divider" > OR</div >
                     <SocialLogin></SocialLogin>
                 </div >
