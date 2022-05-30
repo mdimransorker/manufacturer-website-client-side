@@ -10,7 +10,7 @@ const AddProduct = () => {
     formState: { errors },
     reset,
   } = useForm();
-  const imageStorageKey = "9222c1dce89f11a6ea048c2aceff7b1a";
+  const imageStorageKey = "0fa14c5f350727a5c5aa2d996e59722d";
 
   const onSubmit = async (productData) => {
     const image = productData.productImage[0];
