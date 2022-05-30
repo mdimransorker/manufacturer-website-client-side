@@ -13,13 +13,13 @@ const BusinessSummary = () => {
 
                 <div class="stat place-items-center">
                     <div class="stat-title">Orders</div>
-                    <div class="stat-value text-secondary">1000+</div>
+                    <div class="stat-value text-secondary">2000+</div>
                     <div class="stat-desc text-secondary">↗︎ 40 (2%)</div>
                 </div>
 
                 <div class="stat place-items-center">
                     <div class="stat-title">Reviews</div>
-                    <div class="stat-value">200+</div>
+                    <div class="stat-value">300+</div>
                     <div class="stat-desc">↘︎ 90 (14%)</div>
                 </div>
 
