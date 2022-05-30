@@ -6,7 +6,7 @@ const Blogs = () => {
             <div class="card max-w-screen-lg bg-base-100 shadow-xl">
                 <div class="card-body">
                     <h2 class="card-title">How will you improve the performance of a React Application?</h2>
-                    <p>Wherever possible, keep component state local.A parent component's state update re-renders the parent and its child components. So, to guarantee that re-rendering a component only occurs when necessary, we can remove the code that cares about the component state and make it local to that code. Memoization is an optimization technique that caches a component-rendered process, keeps the result in memory, and then returns the cached result for the same input.</p>
+                    <p>Wherever possible to keep component state local.A parent component's state update re-renders the parent and its child components. So, to guarantee that re-rendering a component only occurs when necessary, we can remove the code that cares about the component state and make it local to that code. Memoization is an optimization technique that caches a component-rendered process, keeps the result in memory, and then returns the cached result for the same input.</p>
                 </div>
             </div>
             <div class="card max-w-screen-lg bg-base-100 shadow-xl">
