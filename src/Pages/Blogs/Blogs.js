@@ -32,7 +32,7 @@ const Blogs = () => {
             </div>
             <div class="card max-w-screen-lg bg-base-100 shadow-xl">
                 <div class="card-body">
-                    <h2 class="card-title">Why you do not set the state directly in React. For example, if you have const [products, setProducts] = useState([]). Why you do not set products = [...] instead, you use the setProducts</h2>
+                    <h2 class="card-title">Why you don't set the state directly in React. For example, if you have const [products, setProducts] = useState([]). Why you do not set products = [...] instead, you use the setProducts</h2>
                     <p>If you directly update it, using setState() subsequently may just overwrite the update you did.This.state does not change instantly when you directly update the state. Instead, it generates a pending state transition, which will only return the current value when accessed after calling this function.</p>
                 </div>
             </div>
