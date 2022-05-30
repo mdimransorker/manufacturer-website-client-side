@@ -7,8 +7,8 @@ const BusinessSummary = () => {
 
                 <div class="stat place-items-center">
                     <div class="stat-title">Customers</div>
-                    <div class="stat-value">100+</div>
-                    <div class="stat-desc">From January 1st to February 1st</div>
+                    <div class="stat-value">200+</div>
+                    <div class="stat-desc">From March 1st to April 1st</div>
                 </div>
 
                 <div class="stat place-items-center">
