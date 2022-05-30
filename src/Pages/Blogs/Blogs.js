@@ -12,7 +12,7 @@ const Blogs = () => {
             <div class="card max-w-screen-lg bg-base-100 shadow-xl">
                 <div class="card-body">
                     <h2 class="card-title">What are the different ways to manage a state in a React application?</h2>
-                    <p>The first tool I should use to handle state in my components is useState.The application Reducer hook is a robust React hook that is offered for dealing with sophisticated state management without the need for third-party dependencies. It also decreases the amount of data that is regenerated with each render.
+                    <p>The first tool I should use to handle state in my components is useState.The application Reducer hook is a robust React hook that is offer for dealing with sophisticated state management without the need for third-party dependencies. It also decreases the amount of data that is regenerated with each render.
                         UseReducer has the advantage of providing a built-in ability to conduct a variety of various state actions with the aid of the reducer function, making it more dynamic overall than useState.</p>
                 </div>
             </div>
